@@ -1,0 +1,2 @@
+# degerlendir
+degerlendir
